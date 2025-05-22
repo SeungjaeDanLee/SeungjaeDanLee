@@ -1,14 +1,15 @@
-# 👋 Hello there! I'm SeungjaeDanLee
+# 👋 Hi there! I'm Seung-jae Lee
 
-> Passionate backend developer dreaming of building something meaningful 🚀
+> A passionate **backend developer** who loves building clean, scalable systems. I'm also dreaming of launching my own tech startup someday. 🚀
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working as a **Backend Developer**
-- 🌱 Learning **Java**, **Kotlin**, **JavaScript**, and **TypeScript**
-- 💡 Love building clean, scalable systems
-- 🌟 Dreaming of **founding my own tech company**
+- 🧩 Currently working as a **Backend Developer**
+- 🌱 Continuously learning **Java**, **Kotlin**, **JavaScript**, and **TypeScript**
+- 📱 Exploring mobile and cross-platform development with **Flutter**, **Jetpack Compose**, and **Dart**
+- 💡 Interested in clean architecture and scalable backend design
+- 🎯 Dreaming of building a product and launching my own **startup**
 
 ---
 
@@ -19,6 +20,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -26,6 +28,8 @@
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases
@@ -44,14 +48,19 @@
 ---
 
 ## 📊 GitHub Stats
-![SeungjaeDanLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungjaeDanLee&show_icons=true&theme=radical&hide_title=true)
 
-## 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeDanLee&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeungjaeDanLee&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeDanLee&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SeungjaeDanLee&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SeungjaeDanLee&theme=radical&margin-w=10&row=2&column=4)
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Me
+
 [![Email](https://img.shields.io/badge/vqs210@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vqs210@naver.com)
 
 ---
